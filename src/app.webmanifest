@@ -1,0 +1,32 @@
+{
+    "name": "Andrey Faigon Portfolio",
+    "short_name": "Portfolio",
+    "description": "Privet Web based Application contains profile",
+    "theme_color": "#18505d",
+    "background_color": "#1b1b1b",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+     
+      {
+        "src": "assets/icons/logo512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "screenshots": [
+        {
+          "src": "assets/icons/ukr_flag.jpg",
+          "type": "image/png",
+          "sizes": "540x720",
+          "form_factor": "narrow"
+        },
+        {
+          "src": "assets/icons/ukr_flag2.gif",
+          "type": "image/jpg",
+          "sizes": "3000x1440",
+          "form_factor": "wide"
+        }
+      ]
+  }
